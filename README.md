@@ -80,19 +80,13 @@ To run the Jupyter Notebook for this project, follow these steps:
      source env/bin/activate
      ```
 
-4. **Install Required Packages:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-5. **Launch Jupyter Notebook:**
+4. **Launch Jupyter Notebook:**
 
    ```bash
    jupyter notebook
    ```
 
-6. **Open and Run the Notebook:**
+5. **Open and Run the Notebook:**
 
    Open the `Food Delivery Analysis.ipynb` notebook file and run the cells to execute the analysis.
 
